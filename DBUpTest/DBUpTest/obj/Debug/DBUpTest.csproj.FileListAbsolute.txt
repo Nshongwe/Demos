@@ -1,0 +1,8 @@
+c:\users\samson\documents\visual studio 2013\Projects\DBUpTest\DBUpTest\bin\Debug\DBUpTest.exe.config
+c:\users\samson\documents\visual studio 2013\Projects\DBUpTest\DBUpTest\bin\Debug\DBUpTest.exe
+c:\users\samson\documents\visual studio 2013\Projects\DBUpTest\DBUpTest\bin\Debug\DBUpTest.pdb
+c:\users\samson\documents\visual studio 2013\Projects\DBUpTest\DBUpTest\bin\Debug\DbUp.pdb
+c:\users\samson\documents\visual studio 2013\Projects\DBUpTest\DBUpTest\bin\Debug\DbUp.xml
+c:\users\samson\documents\visual studio 2013\Projects\DBUpTest\DBUpTest\obj\Debug\DBUpTest.csprojResolveAssemblyReference.cache
+c:\users\samson\documents\visual studio 2013\Projects\DBUpTest\DBUpTest\obj\Debug\DBUpTest.exe
+c:\users\samson\documents\visual studio 2013\Projects\DBUpTest\DBUpTest\obj\Debug\DBUpTest.pdb
