@@ -6,3 +6,6 @@ c:\users\samson\documents\visual studio 2013\Projects\DBUpTest\DBUpTest\bin\Debu
 c:\users\samson\documents\visual studio 2013\Projects\DBUpTest\DBUpTest\obj\Debug\DBUpTest.csprojResolveAssemblyReference.cache
 c:\users\samson\documents\visual studio 2013\Projects\DBUpTest\DBUpTest\obj\Debug\DBUpTest.exe
 c:\users\samson\documents\visual studio 2013\Projects\DBUpTest\DBUpTest\obj\Debug\DBUpTest.pdb
+C:\Users\Samson\Documents\GitHub\Demos\DBUpTest\DBUpTest\bin\Debug\DBUpTest.exe.config
+C:\Users\Samson\Documents\GitHub\Demos\DBUpTest\DBUpTest\obj\Debug\DBUpTest.exe
+C:\Users\Samson\Documents\GitHub\Demos\DBUpTest\DBUpTest\obj\Debug\DBUpTest.pdb
